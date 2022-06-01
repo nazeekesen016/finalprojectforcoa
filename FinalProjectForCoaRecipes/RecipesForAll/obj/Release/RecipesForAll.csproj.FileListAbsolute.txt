@@ -1,0 +1,10 @@
+C:\Users\Kulla\source\repos\RecipesForAll\RecipesForAll\bin\Release\RecipesForAll.exe.config
+C:\Users\Kulla\source\repos\RecipesForAll\RecipesForAll\bin\Release\RecipesForAll.exe
+C:\Users\Kulla\source\repos\RecipesForAll\RecipesForAll\bin\Release\RecipesForAll.pdb
+C:\Users\Kulla\source\repos\RecipesForAll\RecipesForAll\obj\Release\RecipesForAll.Form1.resources
+C:\Users\Kulla\source\repos\RecipesForAll\RecipesForAll\obj\Release\RecipesForAll.Form2.resources
+C:\Users\Kulla\source\repos\RecipesForAll\RecipesForAll\obj\Release\RecipesForAll.Properties.Resources.resources
+C:\Users\Kulla\source\repos\RecipesForAll\RecipesForAll\obj\Release\RecipesForAll.csproj.GenerateResource.Cache
+C:\Users\Kulla\source\repos\RecipesForAll\RecipesForAll\obj\Release\RecipesForAll.csproj.CoreCompileInputs.cache
+C:\Users\Kulla\source\repos\RecipesForAll\RecipesForAll\obj\Release\RecipesForAll.exe
+C:\Users\Kulla\source\repos\RecipesForAll\RecipesForAll\obj\Release\RecipesForAll.pdb

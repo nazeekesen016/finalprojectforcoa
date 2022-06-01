@@ -1,0 +1,11 @@
+C:\Users\Kulla\source\repos\RecipesForAll\RecipesForAll\bin\Debug\RecipesForAll.exe.config
+C:\Users\Kulla\source\repos\RecipesForAll\RecipesForAll\bin\Debug\RecipesForAll.exe
+C:\Users\Kulla\source\repos\RecipesForAll\RecipesForAll\bin\Debug\RecipesForAll.pdb
+C:\Users\Kulla\source\repos\RecipesForAll\RecipesForAll\obj\Debug\RecipesForAll.csprojResolveAssemblyReference.cache
+C:\Users\Kulla\source\repos\RecipesForAll\RecipesForAll\obj\Debug\RecipesForAll.Properties.Resources.resources
+C:\Users\Kulla\source\repos\RecipesForAll\RecipesForAll\obj\Debug\RecipesForAll.csproj.GenerateResource.Cache
+C:\Users\Kulla\source\repos\RecipesForAll\RecipesForAll\obj\Debug\RecipesForAll.csproj.CoreCompileInputs.cache
+C:\Users\Kulla\source\repos\RecipesForAll\RecipesForAll\obj\Debug\RecipesForAll.exe
+C:\Users\Kulla\source\repos\RecipesForAll\RecipesForAll\obj\Debug\RecipesForAll.pdb
+C:\Users\Kulla\source\repos\RecipesForAll\RecipesForAll\obj\Debug\RecipesForAll.Form1.resources
+C:\Users\Kulla\source\repos\RecipesForAll\RecipesForAll\obj\Debug\RecipesForAll.Form2.resources
